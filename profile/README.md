@@ -1,8 +1,6 @@
 # Get EVO
 
-Welcome to the GitHub organization for GetEvo!
 
+## EVO Framework
 
-### Contributors
-
-<a href="https://github.com/getevo/.github/graphs/contributors"> <img src="https://contrib.rocks/image?repo=getevo/.github" /> </a>
+The **EVO framework** is designed to bring simplicity and a boost to Golang developers' lives. It contains a chain of libraries and applications that create an ecosystem. This ecosystem is essentially designed for faster software development.
